@@ -1,4 +1,3 @@
-# Youtube-Channel
 # YouTube Channel Resources
 
 Welcome to the official repository for my YouTube channel.
@@ -35,7 +34,7 @@ Whether you're just getting started or looking to strengthen your existing skill
 
 Learn the fundamentals of databases, SQL, PostgreSQL, relational database design, queries, and more.
 
-Materials can be found in the [`database`](./database) directory.
+📁 [View Database playlist materials](./Database)
 
 ---
 
