@@ -28,10 +28,15 @@ In this lesson, we introduce the fundamental concepts behind databases before mo
 
 ## Materials
 
-This directory may include:
+### Presentation Slides
 
-* `slides/` — Presentation slides used in the video
-* `code/` — Code and SQL examples
+The presentation used in this lesson is available here:
+
+📄 [View / Download the Slides](./Slides.pdf)
+
+Additional materials may be added as the course progresses:
+
+* `code/` — SQL scripts and code examples
 * `datasets/` — Datasets used in the lesson
 * `resources/` — Additional supporting materials
 
@@ -47,4 +52,4 @@ YouTube video: `Coming soon`
 
 ---
 
-Feel free to use the materials in this repository to follow along with the lesson.
+Feel free to download the materials and use them to follow along with the lesson.
