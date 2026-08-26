@@ -31,7 +31,7 @@ Whether you're just getting started or looking to strengthen your existing skill
 
 ## Playlists
 
-### Databases
+### Database
 
 Learn the fundamentals of databases, SQL, PostgreSQL, relational database design, queries, and more.
 
