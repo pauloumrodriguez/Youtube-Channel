@@ -24,7 +24,7 @@ Throughout the playlist, we'll explore topics such as:
 
 An introduction to the core concepts behind databases, DBMS, relational and non-relational databases, SQL, CRUD operations, keys, and database queries.
 
-[View lesson materials](./01-database-fundamentals)
+[View lesson materials](./01%20-%20Database%20Fundamentals)
 
 ---
 
